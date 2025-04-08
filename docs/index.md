@@ -1,5 +1,6 @@
 ---
 layout: default
+footer: false
 ---
 
 Ahoj, vítej!
