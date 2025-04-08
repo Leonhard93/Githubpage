@@ -1,8 +1,6 @@
 ---
- layout: default
- title: Vítej na mé stránce
+layout: no-header-footer
 ---
- 
 
 # 👋 Ahoj, vítej!
 
