@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 👋 Ahoj, vítej!
+Ahoj, vítej!
 
 Toto je moje osobní stránka hostovaná na **GitHub Pages** pomocí **Jekyllu**.  
 Najdeš tu pár informací o mně, odkazy a kontakt.
