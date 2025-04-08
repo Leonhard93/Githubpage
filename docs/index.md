@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: no-header-footer
 ---
 
 # 👋 Ahoj, vítej!
