@@ -1,3 +1,9 @@
+---
+ layout: default
+ title: Vítej na mé stránce
+---
+ 
+
 # 👋 Ahoj, vítej!
 
 Toto je moje osobní stránka hostovaná na **GitHub Pages** pomocí **Jekyllu**.  
